@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638049646 source:c:\users\jao\documents\faculdade\unip\1 - pim iv\pim iv - código fonte\cadastrocovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
